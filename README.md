@@ -1,6 +1,5 @@
 # esmiprimeritodia
 
-My first steps with python. non-professional profile.
 
 Download & subtitles with IA is a notebook to transcribe videos in different languages using openIA's Whisper algorithm. It adds english and spanish subtitles to the original video, translating with google translate. It is easily customizable to other languages.  
 
