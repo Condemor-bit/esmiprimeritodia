@@ -1,7 +1,7 @@
 
-Download & subtitles with IA is a notebook to transcribe videos in different languages using openIA's Whisper algorithm. It adds english and spanish subtitles to the original video, translating with google translate. It is easily customizable to other languages.  
+Download & subtitles with IA is a notebook to transcribe videos in different languages using openIA's Whisper algorithm. It adds english and spanish subtitles to the original video, translating with google translate. Is easily customizable to other languages.  
 
-It is written especially for Youtube videos, but can works with any format of video supported by whisper. 
+Is written especially for Youtube videos, but can works with any format of video supported by whisper. 
 
 Any suggestions for improvement will be appreciated.
 
