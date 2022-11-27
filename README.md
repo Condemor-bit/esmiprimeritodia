@@ -7,6 +7,8 @@ Any suggestions for improvement will be appreciated.
 
 Enjoy it!
 
+More info at: https://github.com/openai/whisper
+
 ===================================
 
 Download & subtitles with IA es un cuaderno para transcribir vídeos en diferentes idiomas utilizando el algoritmo Whisper de openIA. Añade subtítulos en inglés y español al vídeo original, traduciendo con google translatel. Es fácilmente personalizable a otros idiomas.  
@@ -16,3 +18,5 @@ Está escrito especialmente para vídeos de Youtube, pero se puede utilizar cual
 Será bienvenida cualquier sugerencia de mejora.
 
 ¡Espero que os sea útil!
+
+Más información en: https://github.com/openai/whisper
